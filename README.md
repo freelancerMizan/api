@@ -1,5 +1,5 @@
 $.ajax({
-    url: https://github.com/freelancerMizan/api/new/master?readme=1,
+    url: https://github.com/freelancerMizan/api/blob/master/users.json,
     dataType: 'jsonp',
     success: function(results)
     {
